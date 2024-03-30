@@ -1,3 +1,8 @@
+'''
+this file is for general practice 
+i write the codes here first before i move them to their respective files
+'''
+
 # creating a linked list
 class Node:
     def __init__(self, data):
